@@ -79,6 +79,10 @@ python src/06_single_network_dynamics.py
 
 Kodlar çalıştırıldığında grafik çıktıları `outputs/` klasörü altında kaydedilir.
 
+## Çıktılar
+
+Simülasyonlardan elde edilen grafik çıktıları `outputs/` klasörü altında paylaşılmıştır. Bu görseller, tezde sunulan LIF nöron simülasyonu, simetrik/asimetrik STDP öğrenme pencereleri, LTP/LTD baskın parametre analizleri ve tekil ağ dinamiği sonuçlarıyla ilişkilidir.
+
 ## Tez ile İlişkisi
 
 Bu depodaki kodlar, bitirme projesinde sunulan Brian2 tabanlı simülasyonların tekrarlanabilirliğini desteklemek amacıyla paylaşılmıştır. Kodlar özellikle tezin ikinci ve dördüncü bölümlerinde yer alan LIF nöron modeli, STDP öğrenme pencereleri, LTP/LTD baskın parametre analizleri ve tekil ağ dinamiği sonuçlarıyla ilişkilidir.
